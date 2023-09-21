@@ -1,0 +1,8 @@
+{
+  "npmClient": "yarn3",
+  "packages": ["packages/**"],
+  "title": "JSON schema for Lerna configuration",
+  "version": "independent",
+  "useNx": true,
+  "useWorkspaces": true
+}
